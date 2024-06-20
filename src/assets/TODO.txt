@@ -1,0 +1,15 @@
+Change title color when under a min
+
+A second reset button to hit that resets back to your last set break and session
+    e.g. you choose 1 min and 5 min for your times, you start a session, but
+    you take long to get setup for your workout and want to just restart your 
+    session really quick to 5 min. But reset will put break and session back
+    to 5 and 25. 
+
+fix colors
+
+timer font, impact?
+display font, less bold
+
+break and session numbers need to pop more
+
