@@ -13,3 +13,5 @@ display font, less bold
 
 break and session numbers need to pop more
 
+change name and get rid of hyphen at end. Will need to update remote url too.
+https://docs.github.com/en/repositories/creating-and-managing-repositories/renaming-a-repository
